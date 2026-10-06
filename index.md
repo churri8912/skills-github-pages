@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: Hola al blog de rafa!
 ---
